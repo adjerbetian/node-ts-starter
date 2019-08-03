@@ -1,0 +1,46 @@
+{
+    "name": "node-ts-starter",
+    "version": "1.0.0",
+    "author": "Alexandre Djerbetian",
+    "license": "ISC",
+    "description": "a simple starter for node & typescript, including prettier and eslint",
+    "main": "src\\index.ts",
+    "scripts": {
+        "compile": "tsc --project tsconfig.json",
+        "build": "tsc --project tsconfig.build.json",
+        "clean": "rm -rf dist",
+        "start": "ts-node src/main.ts",
+        "prestart:prod": "npm run build",
+        "start:prod": "node dist/main.js",
+        "test": "mocha",
+        "test:watch": "mocha ./src/**/*.unit.ts --watch",
+        "test:e2e": "yarn clean && mocha --config .mocharc.e2e.js"
+    },
+    "_moduleAliases": {
+        "@test": "test"
+    },
+    "dependencies": {
+        "@types/chai-as-promised": "^7.1.3",
+        "chai-as-promised": "^7.1.1",
+        "module-alias": "^2.2.2",
+        "sinon-chai": "^3.5.0"
+    },
+    "devDependencies": {
+        "@types/chai": "^4.2.14",
+        "@types/mocha": "^8.0.4",
+        "@types/node": "^14.14.10",
+        "@types/sinon": "^9.0.9",
+        "@types/sinon-chai": "^3.2.5",
+        "@typescript-eslint/eslint-plugin": "^4.9.0",
+        "@typescript-eslint/parser": "^4.9.0",
+        "chai": "^4.2.0",
+        "eslint": "^7.14.0",
+        "eslint-config-prettier": "^6.15.0",
+        "eslint-plugin-import": "^2.22.1",
+        "mocha": "^8.2.1",
+        "prettier": "^2.2.1",
+        "sinon": "^9.2.1",
+        "ts-node": "^9.0.0",
+        "typescript": "^4.1.2"
+    }
+}
