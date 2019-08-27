@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c004be2-9f0e-4848-a159-c138f74eb202" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1OuY5Oz0qwfxRExOZTViCXPygew" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.5.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../katas/asdppp-1-payroll/.idea" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\code\node-ts-starter\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="D:\code\node-ts-starter\node_modules\typescript\lib" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../katas/asdppp-1-payroll/tsconfig.json" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../katas/asdppp-1-payroll/.idea" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.unit">
+    <list>
+      <item itemvalue="Mocha.e2e" />
+      <item itemvalue="Mocha.unit" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c004be2-9f0e-4848-a159-c138f74eb202" name="Default Changelist" comment="" />
+      <created>1564828764442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564828764442</updated>
+      <workItem from="1564828765720" duration="305000" />
+      <workItem from="1564829106086" duration="1355000" />
+      <workItem from="1564847563381" duration="1782000" />
+      <workItem from="1564915733931" duration="627000" />
+      <workItem from="1564932985107" duration="101000" />
+      <workItem from="1565460146280" duration="57000" />
+      <workItem from="1566932028394" duration="972000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1564828904407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564828904407</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1564828987500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564828987500</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git ignore">
+      <created>1564829149317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564829149317</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1564829156979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564829156979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="readme">
+      <created>1564829450815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564829450815</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fi">
+      <created>1564829518743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564829518743</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fi">
+      <created>1564829768759</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1564829768759</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixup">
+      <created>1564831136551</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564831136551</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixup">
+      <created>1564847609259</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1564847609259</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixup">
+      <created>1564849653773</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1564849653773</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixup">
+      <created>1564869972548</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1564869972548</updated>
+    </task>
+    <task id="LOCAL-00012" summary="simplified eslint rule">
+      <created>1564915756944</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1564915756944</updated>
+    </task>
+    <task id="LOCAL-00013" summary="npm update">
+      <created>1566932271575</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1566932271575</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updated">
+      <created>1566932984799</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1566932984799</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="git ignore" />
+    <MESSAGE value="init" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="fi" />
+    <MESSAGE value="fixup" />
+    <MESSAGE value="simplified eslint rule" />
+    <MESSAGE value="npm update" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
+</project>

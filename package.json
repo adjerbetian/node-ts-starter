@@ -6,13 +6,13 @@
     "description": "a simple starter for node & typescript, including prettier and eslint",
     "main": "src\\index.ts",
     "scripts": {
-        "build": "tsc",
-        "start": "ts-node src/index.ts",
+        "build": "tsc --project tsconfig.build.json",
+        "start": "ts-node src/main.ts",
         "prestart:prod": "npm run build",
         "start:prod": "node dist/main.js",
         "test": "mocha ./src/**/*.unit.ts",
         "test:watch": "mocha ./src/**/*.unit.ts --watch",
-        "test:e2e": "mocha ./e2e/**/*.e2e.ts"
+        "test:e2e": "mocha ./e2e/**/*.e2e.ts --timeout 10000"
     },
     "dependencies": {
         "lodash": "^4.17.15",
