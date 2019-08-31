@@ -13,8 +13,7 @@
         "outDir": "dist/",
         "noEmit": true,
         "paths": {
-            "@test/unit": ["../test/unitTest.ts"],
-            "@test/e2e": ["../test/e2eTest.ts"]
+            "@test/*": ["../test/*"]
         }
     },
     "exclude": ["node_modules"]

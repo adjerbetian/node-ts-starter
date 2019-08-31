@@ -1,8 +1,9 @@
 import { execSync } from "child_process";
 
-export * from "./unitTest";
+export * from "./unit";
+export * from "./utils/execute";
 
 before(function() {
-    this.timeout(5000);
+    this.timeout(10000);
     execSync("npm run build");
 });

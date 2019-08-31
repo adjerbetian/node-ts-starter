@@ -15,8 +15,7 @@
         "test:e2e": "mocha ./e2e/**/*.e2e.ts --timeout 10000"
     },
     "_moduleAliases": {
-        "@test/unit": "test/unitTest",
-        "@test/e2e": "test/e2eTest"
+        "@test": "test"
     },
     "dependencies": {
         "lodash": "^4.17.15",

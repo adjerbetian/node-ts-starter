@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c004be2-9f0e-4848-a159-c138f74eb202" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/utils/execute.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/utils/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/utils/stubBuilders.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+    <list default="true" id="9c004be2-9f0e-4848-a159-c138f74eb202" name="Default Changelist" comment="added aliases for tests">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mocharc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.mocharc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/e2e/helloWorld.e2e.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/helloWorld.e2e.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/getHelloWorld.unit.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/getHelloWorld.unit.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/unitTest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/unitTest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/e2eTest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/e2e.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/unitTest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/unit.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/utils/index.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.unit">
+  <component name="RunManager" selected="Mocha.e2e">
     <list>
       <item itemvalue="Mocha.e2e" />
       <item itemvalue="Mocha.unit" />
@@ -99,7 +94,8 @@
       <workItem from="1565460146280" duration="57000" />
       <workItem from="1566932028394" duration="972000" />
       <workItem from="1567249753716" duration="69000" />
-      <workItem from="1567249826019" duration="162000" />
+      <workItem from="1567249826019" duration="363000" />
+      <workItem from="1567267695077" duration="424000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1564828904407</created>
@@ -199,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566932984799</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added aliases for tests">
+      <created>1567250178477</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1567250178477</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +231,7 @@
     <MESSAGE value="simplified eslint rule" />
     <MESSAGE value="npm update" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="added aliases for tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="added aliases for tests" />
   </component>
 </project>

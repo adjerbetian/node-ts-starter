@@ -3,7 +3,7 @@ import * as chaiAsPromised from "chai-as-promised";
 import * as sinonChai from "sinon-chai";
 import * as sinon from "sinon";
 
-export * from "./utils";
+export * from "./utils/stubBuilders";
 
 export const sandbox = sinon.createSandbox();
 
