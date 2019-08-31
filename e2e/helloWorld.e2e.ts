@@ -1,4 +1,4 @@
-import { expect } from "../test/e2eTest";
+import { expect } from "@test/e2e";
 import { execSync } from "child_process";
 
 describe("helloWorld", () => {

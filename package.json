@@ -14,8 +14,13 @@
         "test:watch": "mocha ./src/**/*.unit.ts --watch",
         "test:e2e": "mocha ./e2e/**/*.e2e.ts --timeout 10000"
     },
+    "_moduleAliases": {
+        "@test/unit": "test/unitTest",
+        "@test/e2e": "test/e2eTest"
+    },
     "dependencies": {
         "lodash": "^4.17.15",
+        "module-alias": "^2.2.1",
         "moment": "^2.24.0"
     },
     "devDependencies": {

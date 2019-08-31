@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c004be2-9f0e-4848-a159-c138f74eb202" name="Default Changelist" comment="" />
+    <list default="true" id="9c004be2-9f0e-4848-a159-c138f74eb202" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils/execute.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils/stubBuilders.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mocharc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.mocharc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/helloWorld.e2e.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/helloWorld.e2e.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getHelloWorld.unit.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/getHelloWorld.unit.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/unitTest.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/unitTest.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +32,15 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1OuY5Oz0qwfxRExOZTViCXPygew" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.5.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../katas/asdppp-1-payroll/.idea" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.8.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/utils" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,10 +52,16 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="D:\code\node-ts-starter\node_modules\prettier" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
-    <property name="ts.external.directory.path" value="D:\code\node-ts-starter\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\code\katas\node-ts-starter\node_modules\typescript\lib" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../katas/asdppp-1-payroll/tsconfig.json" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../katas/asdppp-1-payroll/.idea" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\katas\node-ts-starter\test\utils" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,6 +98,8 @@
       <workItem from="1564932985107" duration="101000" />
       <workItem from="1565460146280" duration="57000" />
       <workItem from="1566932028394" duration="972000" />
+      <workItem from="1567249753716" duration="69000" />
+      <workItem from="1567249826019" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1564828904407</created>
