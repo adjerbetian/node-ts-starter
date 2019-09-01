@@ -1,9 +1,9 @@
-import { execSync } from "child_process";
+import { execute } from "@test/utils/execute";
 
 export * from "./unit";
 export * from "./utils/execute";
 
-before(function() {
-    this.timeout(10000);
-    execSync("npm run build");
+before(async () => {
+    await execute(`IF EXIST dist\\ RMDIR dist /S /Q`);
+    await execute("npm run build");
 });
